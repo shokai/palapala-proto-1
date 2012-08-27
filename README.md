@@ -4,7 +4,6 @@ make palapala comic.
 
 - Android 3.0+ WebBrowser
 - Node.js 0.6.x
-- http://palapala.herokuapp.com
 - https://github.com/shokai/palapala-proto-1
 
 Install Dependencies
